@@ -18,4 +18,4 @@ This Android application helps manage employee grievances by allowing employees 
 ## 🔧 Setup Instructions
 1. Clone the repo:
    ```bash
-   git clone https://github.com/ayushdhardwivedi55/Grivience-Application.git
+   git clone- https://github.com/tripathijee7/Grivience-Application-master
